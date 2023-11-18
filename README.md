@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/oliverassis" target="_blank" alt="Linkedin">
 <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-black?style=square&logo=LINKEDIN&logoColor=%230A66C2"></a>
 
-<a href="wa.me//19995812011" target="_blank" alt="WhatsApp">
+<a href="https://api.whatsapp.com/send/?phone=19995812011&text&type=phone_number&app_absent=0" target="_blank" alt="WhatsApp">
 <img alt="Static Badge" src="https://img.shields.io/badge/WHATSAPP-black?style=square&logo=WHATSAPP&logoColor=%2325D366"></a>
 
 </p>
