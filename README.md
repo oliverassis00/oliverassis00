@@ -7,7 +7,7 @@
 - Atualmente trabalho com Suporte de TI 🛠️
 - Estudante de Análise e Desenvolvimento de Sistemas 💻
 - Gamer nas horas vagas 🎮
-- Residente em Americana/SP 🏠
+- Residente em São Paulo, Brasil 🏠
 
 <h3> Tecnologias 🚀 </h3>
 
