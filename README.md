@@ -1,15 +1,15 @@
-# Olá, sou o Oliver Assis! 👋🏽 
+# Hello, I'm Oliver Assis! 👋🏽 
 
-<h3> Futuro Desenvolvedor de Software Mobile 📱🔥</h3>
+<h3> Future Mobile Software Developer 📱🔥</h3>
 
 <hr>
 
-- Atualmente trabalho com Suporte de TI 🛠️
-- Estudante de Análise e Desenvolvimento de Sistemas 💻
-- Gamer nas horas vagas 🎮
-- Residente em São Paulo, Brasil 🏠
+- Currently work as IT Support 🛠️
+- Systems Analysis and Development Student 💻
+- Gamer in my spare time 🎮
+- São Paulo, Brazil 🏠
 
-<h3> Tecnologias 🚀 </h3>
+<h3> Technologies 🚀 </h3>
 
 <hr>
 
@@ -22,7 +22,7 @@
 ![Static Badge](https://img.shields.io/badge/GIT-black?style=square&logo=GIT&logoColor=%23F05032)
 
 
-<h3> Contato 📱 </h3>
+<h3> Contact 📱 </h3>
 
 <hr>
 
