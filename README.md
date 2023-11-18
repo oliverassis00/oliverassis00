@@ -26,11 +26,21 @@
 
 <hr>
 
+<p align="left">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-black?style=square&logo=GMAIL&logoColor=%23EA4335">
-<img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-black?style=square&logo=INSTAGRAM&logoColor=%23E4405F">
-<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-black?style=square&logo=LINKEDIN&logoColor=%230A66C2">
-<img alt="Static Badge" src="https://img.shields.io/badge/WHATSAPP-black?style=square&logo=WHATSAPP&logoColor=%2325D366">
+<a href="mailto:oliverinvest08@gmail.com" target="_blank" alt="Gmail">
+<img alt="Static Badge" src="https://img.shields.io/badge/GMAIL-black?style=square&logo=GMAIL&logoColor=%23EA4335"></a>
+
+<a href="https://www.instagram.com/oliverassis08/" target="_blank" alt="Instagram">
+<img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-black?style=square&logo=INSTAGRAM&logoColor=%23E4405F"></a>
+
+<a href="https://www.linkedin.com/in/oliverassis" target="_blank" alt="Linkedin">
+<img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-black?style=square&logo=LINKEDIN&logoColor=%230A66C2"></a>
+
+<a href="wa.me//19995812011" target="_blank" alt="WhatsApp">
+<img alt="Static Badge" src="https://img.shields.io/badge/WHATSAPP-black?style=square&logo=WHATSAPP&logoColor=%2325D366"></a>
+
+</p>
 
 
 
