@@ -14,7 +14,7 @@
 <hr>
 
 ![Static Badge](https://img.shields.io/badge/HTML5-black?style=square&logo=HTML5&logoColor=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CCS3-black?style=square&logo=CSS3&logoColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/CSS3-black?style=square&logo=CSS3&logoColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/JAVASCRIPT-black?style=square&logo=JAVASCRIPT&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/NODE.JS-black?style=square&logo=NODE.JS&logoColor=%23339933)
 ![Static Badge](https://img.shields.io/badge/REACT-black?style=square&logo=REACT&logoColor=%2361DAFB)
