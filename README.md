@@ -1,28 +1,15 @@
-# Hello, I'm Oliver Assis! 👋🏽 
+# Olá, Sou o Oliver Assis! 👋🏽 
 
-<h3> Future Mobile Software Developer 📱🔥</h3>
-
-<hr>
-
-- Currently work as IT Support 🛠️
-- Systems Analysis and Development Student 💻
-- Gamer in my spare time 🎮
-- São Paulo, Brazil 🏠
-
-<h3> Technologies 🚀 </h3>
+<h3> Futuro Desenvolvedor de Software Mobile 📱🔥</h3>
 
 <hr>
 
-![Static Badge](https://img.shields.io/badge/HTML5-black?style=square&logo=HTML5&logoColor=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS3-black?style=square&logo=CSS3&logoColor=%231572B6)
-![Static Badge](https://img.shields.io/badge/JAVASCRIPT-black?style=square&logo=JAVASCRIPT&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/NODE.JS-black?style=square&logo=NODE.JS&logoColor=%23339933)
-![Static Badge](https://img.shields.io/badge/REACT-black?style=square&logo=REACT&logoColor=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/MySQL-black?style=square&logo=MySQL&logoColor=%234479A1)
-![Static Badge](https://img.shields.io/badge/GIT-black?style=square&logo=GIT&logoColor=%23F05032)
+- Atualmente trabalho com Suporte de TI 🛠️
+- Estudante de Análise e Desenvolvimento de Sistemas 💻
+- Gamer nas horas vagas 🎮
+- São Paulo, Brasil 🏠
 
-
-<h3> Contact 📱 </h3>
+<h3> Contato 📱 </h3>
 
 <hr>
 
